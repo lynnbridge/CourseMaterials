@@ -232,7 +232,7 @@ long_desc(figurine,"Your roommate's alien figurine.  He's been obsessed with ali
 long_desc(flask,"A small container made of glass that is wide at the base and narrow at the neck.  A purple liquid seems to have been left over from a previous experiment.").
 long_desc(fly,"Scientifically known as Syrphus Ribessi, this nuisance enjoys long buzzes around human faces and landing on perfectly good food. This particular house fly met an untimely death by squishing.").
 long_desc(geology_building,"").
-long_desc(goggles,"").
+long_desc(goggles,"The'Great American Eclipse' goggles have are black with pictures of the eclipe on the side and front.  A description on the inside states User Intructions: Inspect each time before use. Do not used if damaged, torn, punctured or separated from the frame in any way. Do not use with other optical devices.  This is not a toy. blah blah... Limited to 3 minutes continuous use, intermittently for several hours... blah blah blah ...Warning: Never look at the sun without special eye protection ... Discard and do not use after 3 years. ").
 long_desc(green_beam,"").
 long_desc(hall,"A narrow area or passage that connects rooms of an edifice.  The passage is laid with dark red carpeting with pictures hanging on its walls.").
 long_desc(hub,"").
